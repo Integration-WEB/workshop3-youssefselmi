@@ -18,6 +18,22 @@ body {
 }
 
 
+.navbar-light{
+  background-color: white !important;
+
+}
+.caption{
+  top: 50%;
+  left: 50%;
+  position: absolute;
+  display: inline-block;
+  text-align: center;
+}
+.contenu{
+position: relative;
+width: 100%;
+  
+}
 
 /*============= FOOTER =============*/
 
